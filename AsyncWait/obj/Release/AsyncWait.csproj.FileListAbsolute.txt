@@ -1,0 +1,9 @@
+C:\Users\Leonardo Silva\Source\Repos\AsyncWait\AsyncWait\bin\Release\AsyncWait.exe.config
+C:\Users\Leonardo Silva\Source\Repos\AsyncWait\AsyncWait\bin\Release\AsyncWait.exe
+C:\Users\Leonardo Silva\Source\Repos\AsyncWait\AsyncWait\bin\Release\AsyncWait.pdb
+C:\Users\Leonardo Silva\Source\Repos\AsyncWait\AsyncWait\obj\Release\AsyncWait.Form1.resources
+C:\Users\Leonardo Silva\Source\Repos\AsyncWait\AsyncWait\obj\Release\AsyncWait.Properties.Resources.resources
+C:\Users\Leonardo Silva\Source\Repos\AsyncWait\AsyncWait\obj\Release\AsyncWait.csproj.GenerateResource.cache
+C:\Users\Leonardo Silva\Source\Repos\AsyncWait\AsyncWait\obj\Release\AsyncWait.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Silva\Source\Repos\AsyncWait\AsyncWait\obj\Release\AsyncWait.exe
+C:\Users\Leonardo Silva\Source\Repos\AsyncWait\AsyncWait\obj\Release\AsyncWait.pdb
